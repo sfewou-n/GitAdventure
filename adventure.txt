@@ -1,1 +1,1 @@
-Embarking on my journey to master Git.
+Exloring the depths of git commands and their powers
